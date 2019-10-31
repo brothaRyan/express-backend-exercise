@@ -10,7 +10,7 @@
     "express": "^4.17.1",
     "greenlock-express": "^2.7.10",
     "mysql2": "^1.6.5",
-    "sequelize": "^5.8.12"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {},
   "scripts": {
